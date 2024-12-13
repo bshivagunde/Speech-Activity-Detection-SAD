@@ -76,3 +76,7 @@ Quantization significantly improves the model's performance on edge devices:
 
 ## Conclusion
 This custom SAD model demonstrates strong performance metrics and is optimized for efficient deployment on edge devices. Quantization ensures reduced latency and memory usage, making it ideal for resource-constrained environments.
+
+
+## Contact
+Created by [@bshivagunde](https://github.com/bshivagunde) - Feel free to contact me!
